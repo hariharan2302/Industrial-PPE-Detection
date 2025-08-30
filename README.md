@@ -279,7 +279,7 @@ You may obtain a copy of the License at
 
 ### 👨‍💻 Author Information
 - **Project Type**: Computer Vision and Image Processing (CVIP)
-- **Institution**: [Your Institution Name]
+- **Institution**: University at Buffalo
 - **Course**: Computer Vision and Image Processing
 - **Year**: 2024
 
